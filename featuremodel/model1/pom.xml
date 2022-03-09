@@ -60,7 +60,7 @@
                     <instructions>
                         <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                         <Bundle-Version>${project.version}</Bundle-Version>
-                        <Bundle-Activator>com.launchclub.model1.Activator</Bundle-Activator>
+                        <Bundle-Activator>com.model1.Activator</Bundle-Activator>
                         <Export-Package>
                             com.launchclub*;version=${project.version}
                         </Export-Package>

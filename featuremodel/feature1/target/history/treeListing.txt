@@ -1,0 +1,1 @@
+local:com.launchclub:model1:jar:1.0-SNAPSHOT (compile)
